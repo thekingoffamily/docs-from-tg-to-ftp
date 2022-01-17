@@ -1,0 +1,4 @@
+﻿pyTelegramBotAPI
+ftplib
+win10toast
+oprt
